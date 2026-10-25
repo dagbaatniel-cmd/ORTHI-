@@ -1,0 +1,8 @@
+{
+  "name": "ORTHI DÉLICES — Restaurant & Chawarmas à Cococodji, Cotonou",
+  "description": "Restaurant ORTHI DÉLICES à Cococodji, Cotonou. Chawarmas généreux, burgers gourmands, grillades et attiéké savoureux. Commandes rapides par WhatsApp au 2290154222345.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
